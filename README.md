@@ -45,3 +45,11 @@ A few examples are listed... Continue by fork and pull
 - [Twitter](https://twitter.com/gdgcochin)
 - [Instagram](https://www.instagram.com/gdgcochin)
 - [Telegram](https://t.me/GDGCochine)
+
+7. Hack Club
+- [Website](https://hackclub.com/)
+- [Slack](https://hackclub.com/slack/)
+- [Twitter](https://twitter.com/hackclub)
+- [Youtube](https://www.youtube.com/channel/UCQzO0jpcRkP-9eWKMpJyB0w)
+- [Linkedin](https://www.linkedin.com/company/hack-club)
+- [Github](https://github.com/hackclub)
