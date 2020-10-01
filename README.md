@@ -46,7 +46,15 @@ A few examples are listed... Continue by fork and pull
 - [Instagram](https://www.instagram.com/gdgcochin)
 - [Telegram](https://t.me/GDGCochine)
 
-7. KuttyCoders
+7. Coding Blocks
+- [Website](https://codingblocks.com/)
+- [Facebook](https://www.facebook.com/codingblocksindia)
+- [Twitter](https://twitter.com/codingblocksIN)
+- [Instagram](https://www.instagram.com/codingblocks/)
+- [Github](https://github.com/coding-blocks)
+- [Telegram](https://t.me/codingblocksplu)
+
+8. KuttyCoders
 - [Website](https://kuttycoders.in/)
 - [Github](https://github.com/kuttycoders)
 - [Youtube](https://www.youtube.com/channel/UCWKggpntkBS53IKGXxK8nIw)
