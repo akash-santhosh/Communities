@@ -1,8 +1,8 @@
-# Connect and Welcome to the world of communities 
+# <center> Connect and Welcome to the world of communities </center>
 
 ## <center> You can fork this repository and add contacts and other details you know of Online and Offline Tech Communities you know </center>
 
-### This will be hosted at [Communtiy](https://community.aks.one)
+### <center> This will be hosted at [Communtiy](https://community.aks.one) </center>
 
 1. Student Developers Society
 - [Website](https://studevsoc.com)
