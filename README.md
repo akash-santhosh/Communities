@@ -31,7 +31,6 @@ A few examples are listed... Continue by fork and pull
 - [GitHub](https://github.com/techcrawler-community)
 - [Instagram](https://instagram.com/thetechcrawler)
 - [Discord](https://discord.gg/n7TmN6t)
-- [WhatsApp](https://chat.whatsapp.com/CnfJwNAbhGK51jXqQ69fuQ)
 
 5. GDG Calicut
 - [Website](https://gdgkozhikode.org/)
@@ -77,3 +76,11 @@ A few examples are listed... Continue by fork and pull
 - [LinkedIN](https://www.linkedin.com/company/kuttycoders/)
 - [Instagram](https://www.instagram.com/kuttycoders/)
 - [Twitter](https://twitter.com/kuttycoders)
+
+11. GirlScript
+- [Website](https://www.girlscript.tech/)
+- [Facebook](https://www.facebook.com/Girlscript/)
+- [Youtube](https://www.youtube.com/channel/UCBOlJtDcWNh0aUkS2CfI8Aw)
+- [LinkedIN](https://www.linkedin.com/company/girlscript-foundation/?originalSubdomain=in)
+- [Instagram](https://www.instagram.com/girlscript/)
+- [Twitter](https://twitter.com/girlscript1)
