@@ -46,14 +46,22 @@ A few examples are listed... Continue by fork and pull
 - [Instagram](https://www.instagram.com/gdgcochin)
 - [Telegram](https://t.me/GDGCochine)
 
-7. Crossroads
+7. Hack Club
+- [Website](https://hackclub.com/)
+- [Slack](https://hackclub.com/slack/)
+- [Twitter](https://twitter.com/hackclub)
+- [Youtube](https://www.youtube.com/channel/UCQzO0jpcRkP-9eWKMpJyB0w)
+- [Linkedin](https://www.linkedin.com/company/hack-club)
+- [Github](https://github.com/hackclub)
+
+8. Crossroads
 - [Website](https://crossroads.world/)
 - [Youtube](https://www.youtube.com/channel/UCoGHeFY7jE2OB_TJS_87MOA)
 - [Facebook](https://www.facebook.com/crossroadstalks)
 - [Instagram](https://www.instagram.com/crossroads.official/)
 - [Telegram](https://t.me/crtalks)
 
-8. Coding Blocks
+9. Coding Blocks
 - [Website](https://codingblocks.com/)
 - [Facebook](https://www.facebook.com/codingblocksindia)
 - [Twitter](https://twitter.com/codingblocksIN)
@@ -61,7 +69,7 @@ A few examples are listed... Continue by fork and pull
 - [Github](https://github.com/coding-blocks)
 - [Telegram](https://t.me/codingblocksplu)
 
-9. KuttyCoders
+10. KuttyCoders
 - [Website](https://kuttycoders.in/)
 - [Github](https://github.com/kuttycoders)
 - [Youtube](https://www.youtube.com/channel/UCWKggpntkBS53IKGXxK8nIw)
