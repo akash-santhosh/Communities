@@ -84,3 +84,9 @@ A few examples are listed... Continue by fork and pull
 - [LinkedIN](https://www.linkedin.com/company/girlscript-foundation/?originalSubdomain=in)
 - [Instagram](https://www.instagram.com/girlscript/)
 - [Twitter](https://twitter.com/girlscript1)
+
+12. Kerala Rustaceans
+- [Mozilla Groups](https://community.mozilla.org/groups/kerala-rustaceans)
+- [Telegram](https://t.me/keralars)
+- [Twitter](https://twitter/keralars)
+- [GitHub](https://t.me/keralars)
