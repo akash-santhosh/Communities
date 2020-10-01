@@ -2,7 +2,7 @@
 
 ## Hey All, this repo is used for making a platform that connects beginners with communities....  
 ## You can fork this repository and and contacts and other details you know of Online and Offline Tech Communities you know
-#### his will be hosted directly at [communtiy](https://community.aks.one)
+#### This will be hosted at [Communtiy](https://community.aks.one)
 
 1. Student Developers Society
 [Website](https://studevsoc.com)
