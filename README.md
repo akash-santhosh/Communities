@@ -53,3 +53,26 @@ A few examples are listed... Continue by fork and pull
 - [Youtube](https://www.youtube.com/channel/UCQzO0jpcRkP-9eWKMpJyB0w)
 - [Linkedin](https://www.linkedin.com/company/hack-club)
 - [Github](https://github.com/hackclub)
+
+8. Crossroads
+- [Website](https://crossroads.world/)
+- [Youtube](https://www.youtube.com/channel/UCoGHeFY7jE2OB_TJS_87MOA)
+- [Facebook](https://www.facebook.com/crossroadstalks)
+- [Instagram](https://www.instagram.com/crossroads.official/)
+- [Telegram](https://t.me/crtalks)
+
+9. Coding Blocks
+- [Website](https://codingblocks.com/)
+- [Facebook](https://www.facebook.com/codingblocksindia)
+- [Twitter](https://twitter.com/codingblocksIN)
+- [Instagram](https://www.instagram.com/codingblocks/)
+- [Github](https://github.com/coding-blocks)
+- [Telegram](https://t.me/codingblocksplu)
+
+10. KuttyCoders
+- [Website](https://kuttycoders.in/)
+- [Github](https://github.com/kuttycoders)
+- [Youtube](https://www.youtube.com/channel/UCWKggpntkBS53IKGXxK8nIw)
+- [LinkedIN](https://www.linkedin.com/company/kuttycoders/)
+- [Instagram](https://www.instagram.com/kuttycoders/)
+- [Twitter](https://twitter.com/kuttycoders)
