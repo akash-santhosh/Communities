@@ -4,6 +4,7 @@
 ## You can fork this repository and and contacts and other details you know of Online and Offline Tech Communities you know
 ### This will be hosted at [Communtiy](https://community.aks.one)
 
+<p>
 1. Student Developers Society
 - [Website](https://studevsoc.com)
 - [Telegram](https://t.me/studevsoc)
@@ -29,3 +30,4 @@
 - [GitHub](https://github.com/techcrawler-community)
 - [Instagram](https://instagram.com/thetechcrawler)
 - [Discord](https://discord.gg/n7TmN6t)
+</p>
