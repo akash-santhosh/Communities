@@ -31,3 +31,10 @@ A few examples are listed... Continue by fork and pull
 - [GitHub](https://github.com/techcrawler-community)
 - [Instagram](https://instagram.com/thetechcrawler)
 - [Discord](https://discord.gg/n7TmN6t)
+
+5. GDG Calicut
+- [Website](https://gdgkozhikode.org/)
+- [Github](https://github.com/GDGKozhikode)
+- [Facebook](https://www.facebook.com/GDGKozhikode/)
+- [Telegram](https://t.me/gdgkozhikode)
+- [Instagram](https://instagram.com/gdgkozhikode)
