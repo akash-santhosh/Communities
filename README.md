@@ -4,7 +4,7 @@
 
 ### This will be hosted at [Communtiy](https://community.aks.one)
 
-A few examples are listed...continue by fork and pull
+A few examples are listed... Continue by fork and pull
 
 1. Student Developers Society
 - [Website](https://studevsoc.com)
