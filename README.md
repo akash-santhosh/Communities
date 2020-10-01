@@ -28,4 +28,4 @@ Connect and Welcome to the world of communities
 [Website](https://techcrawler.in)
 [GitHub](https://github.com/techcrawler-community)
 [Instagram](https://instagram.com/thetechcrawler)
-[Discord](https://discord.gg/n7TmN6t}
+[Discord](https://discord.gg/n7TmN6t)
