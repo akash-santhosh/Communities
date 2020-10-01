@@ -53,3 +53,18 @@ A few examples are listed... Continue by fork and pull
 - [Instagram](https://www.instagram.com/crossroads.official/)
 - [Telegram](https://t.me/crtalks)
 
+8. Coding Blocks
+- [Website](https://codingblocks.com/)
+- [Facebook](https://www.facebook.com/codingblocksindia)
+- [Twitter](https://twitter.com/codingblocksIN)
+- [Instagram](https://www.instagram.com/codingblocks/)
+- [Github](https://github.com/coding-blocks)
+- [Telegram](https://t.me/codingblocksplu)
+
+9. KuttyCoders
+- [Website](https://kuttycoders.in/)
+- [Github](https://github.com/kuttycoders)
+- [Youtube](https://www.youtube.com/channel/UCWKggpntkBS53IKGXxK8nIw)
+- [LinkedIN](https://www.linkedin.com/company/kuttycoders/)
+- [Instagram](https://www.instagram.com/kuttycoders/)
+- [Twitter](https://twitter.com/kuttycoders)
