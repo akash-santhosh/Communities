@@ -9,7 +9,7 @@ Connect and Welcome to the world of communities
 [Telegram](https://t.me/studevsoc)
 [Facebook](https://facebook.com/StuDevSoc)
 [Instagram](https://instagram.com/studevsoc)
-Twitter](https://twitter.com/thisissds)
+[Twitter](https://twitter.com/thisissds)
 [Gitlab](https://gitlab.com/studevsoc)
 
 2. Pehia
