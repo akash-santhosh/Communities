@@ -45,3 +45,11 @@ A few examples are listed... Continue by fork and pull
 - [Twitter](https://twitter.com/gdgcochin)
 - [Instagram](https://www.instagram.com/gdgcochin)
 - [Telegram](https://t.me/GDGCochine)
+
+7. Crossroads
+- [Website](https://crossroads.world/)
+- [Youtube](https://www.youtube.com/channel/UCoGHeFY7jE2OB_TJS_87MOA)
+- [Facebook](https://www.facebook.com/crossroadstalks)
+- [Instagram](https://www.instagram.com/crossroads.official/)
+- [Telegram](https://t.me/crtalks)
+
