@@ -2,7 +2,7 @@
 
 ## <center> You can fork this repository and add contacts and other details you know of Online and Offline Tech Communities you know </center>
 
-### <center> This will be hosted at [Communtiy](https://community.aks.one) </center>
+### This will be hosted at [Communtiy](https://community.aks.one)
 
 1. Student Developers Society
 - [Website](https://studevsoc.com)
