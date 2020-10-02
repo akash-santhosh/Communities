@@ -90,3 +90,10 @@ A few examples are listed... Continue by fork and pull
 - [Telegram](https://t.me/keralars)
 - [Twitter](https://twitter/keralars)
 - [GitHub](https://t.me/keralars)
+
+13. FAYA:80
+- [Website](https://www.fayaport80.com/)
+- [Facebook](https://www.facebook.com/fayaport80/)
+- [Twitter](https://twitter.com/FayaPort80)
+- [Youtube](https://www.youtube.com/fayausa)
+- [Eventbrite](https://www.eventbrite.com/o/faya-3194888760)
