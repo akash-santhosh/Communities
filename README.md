@@ -2,7 +2,7 @@
 
 ## <center> You can fork this repository and add contacts and other details you know of Online and Offline Tech Communities you know </center>
 
-### This will be hosted at [Communtiy](https://community.aks.one)
+### This will be hosted at [Community](https://community.aks.one)
 
 A few examples are listed... Continue by fork and pull
 
