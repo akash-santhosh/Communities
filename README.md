@@ -2,7 +2,7 @@
 
 ## <center> You can fork this repository and add contacts and other details you know of Online and Offline Tech Communities you know </center>
 
-### This will be hosted at [Communtiy](https://community.aks.one)
+### This will be hosted at [Community](https://community.aks.one)
 
 A few examples are listed... Continue by fork and pull
 
@@ -91,38 +91,43 @@ A few examples are listed... Continue by fork and pull
 - [Twitter](https://twitter/keralars)
 - [GitHub](https://t.me/keralars)
 
-13. MakerGram
+13. FAYA:80
+- [Website](https://www.fayaport80.com/)
+- [Facebook](https://www.facebook.com/fayaport80/)
+- [Twitter](https://twitter.com/FayaPort80)
+- [Youtube](https://www.youtube.com/fayausa)
+- [Eventbrite](https://www.eventbrite.com/o/faya-3194888760)
+
+14. MakerGram
 - [Website](https://makergram.com)
 - [Telegram](https://t.me/makergram)
 - [Twitter](https://twitter/Maker_Gram)
 - [Instagram](https://www.instagram.com/maker_gram/)
 - [LinkedIn](https://www.linkedin.com/company/makergram/)
 
-14. Kerala JUG
+15. Kerala JUG
 - [Website](https://www.keralajug.org)
 - [Telegram](https://t.me/KeralaJUG)
 - [GitHub](https://github.com/keralajug)
 - [Twitter](https://twitter.com/KeralaJUG)
 
-15. AWS User group - Kochi
+16. AWS User group - Kochi
 - [Website](https://awsugkochi.in)
 - [GitHub](https://github.com/awsugkochi/awsugkochi)
 - [Meetup Group](https://www.meetup.com/awsugkochi/)
 
-16. Flutter Kerala
+17. Flutter Kerala
 - [GitHub](https://github.com/FlutterKerala)
 - [Twitter](https://twitter.com/flutterkerala)
 
-17. Headstart Calicut chapter
+18. Headstart Calicut chapter
 - [Website](https://headstart.in/chapter/calicut)
 - [twitter](https://twitter.com/HSCalicut)
 
-18. Kochi Python 
+19. Kochi Python 
 - [website](https://kochi.python.org.in)
 - [Twitter](https://twitter.com/KochiPython)
 - [GitHub](https://github.com/KochiPython/)
 
-19. MALABAR AMATEUR RADIO SOCIETY
+20. MALABAR AMATEUR RADIO SOCIETY
 - [Website](https://malabarradiosociety.in)
-
-
