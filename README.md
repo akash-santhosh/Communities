@@ -130,4 +130,9 @@ A few examples are listed... Continue by fork and pull
 - [GitHub](https://github.com/KochiPython/)
 
 20. MALABAR AMATEUR RADIO SOCIETY
-- [Website](https://malabarradiosociety.in)
+- [Website](https://malabarradiosociety.in)  
+  
+21. Dair.ai  
+- [Website](https://dair.ai/)
+- [Twitter](http://twitter.com/dair_ai)
+- [Github](http://github.com/dair-ai)
