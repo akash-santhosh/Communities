@@ -97,3 +97,37 @@ A few examples are listed... Continue by fork and pull
 - [Twitter](https://twitter.com/FayaPort80)
 - [Youtube](https://www.youtube.com/fayausa)
 - [Eventbrite](https://www.eventbrite.com/o/faya-3194888760)
+
+14. MakerGram
+- [Website](https://makergram.com)
+- [Telegram](https://t.me/makergram)
+- [Twitter](https://twitter/Maker_Gram)
+- [Instagram](https://www.instagram.com/maker_gram/)
+- [LinkedIn](https://www.linkedin.com/company/makergram/)
+
+15. Kerala JUG
+- [Website](https://www.keralajug.org)
+- [Telegram](https://t.me/KeralaJUG)
+- [GitHub](https://github.com/keralajug)
+- [Twitter](https://twitter.com/KeralaJUG)
+
+16. AWS User group - Kochi
+- [Website](https://awsugkochi.in)
+- [GitHub](https://github.com/awsugkochi/awsugkochi)
+- [Meetup Group](https://www.meetup.com/awsugkochi/)
+
+17. Flutter Kerala
+- [GitHub](https://github.com/FlutterKerala)
+- [Twitter](https://twitter.com/flutterkerala)
+
+18. Headstart Calicut chapter
+- [Website](https://headstart.in/chapter/calicut)
+- [twitter](https://twitter.com/HSCalicut)
+
+19. Kochi Python 
+- [website](https://kochi.python.org.in)
+- [Twitter](https://twitter.com/KochiPython)
+- [GitHub](https://github.com/KochiPython/)
+
+20. MALABAR AMATEUR RADIO SOCIETY
+- [Website](https://malabarradiosociety.in)
