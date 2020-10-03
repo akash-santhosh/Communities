@@ -51,7 +51,7 @@ A few examples are listed... Continue by fork and pull
 - [Slack](https://hackclub.com/slack/)
 - [Twitter](https://twitter.com/hackclub)
 - [Youtube](https://www.youtube.com/channel/UCQzO0jpcRkP-9eWKMpJyB0w)
-- [Linkedin](https://www.linkedin.com/company/hack-club)
+- [LinkedIn](https://www.linkedin.com/company/hack-club)
 - [Github](https://github.com/hackclub)
 
 8. Crossroads
@@ -73,7 +73,7 @@ A few examples are listed... Continue by fork and pull
 - [Website](https://kuttycoders.in/)
 - [Github](https://github.com/kuttycoders)
 - [Youtube](https://www.youtube.com/channel/UCWKggpntkBS53IKGXxK8nIw)
-- [LinkedIN](https://www.linkedin.com/company/kuttycoders/)
+- [LinkedIn](https://www.linkedin.com/company/kuttycoders/)
 - [Instagram](https://www.instagram.com/kuttycoders/)
 - [Twitter](https://twitter.com/kuttycoders)
 
@@ -81,7 +81,7 @@ A few examples are listed... Continue by fork and pull
 - [Website](https://www.girlscript.tech/)
 - [Facebook](https://www.facebook.com/Girlscript/)
 - [Youtube](https://www.youtube.com/channel/UCBOlJtDcWNh0aUkS2CfI8Aw)
-- [LinkedIN](https://www.linkedin.com/company/girlscript-foundation/?originalSubdomain=in)
+- [LinkedIn](https://www.linkedin.com/company/girlscript-foundation/?originalSubdomain=in)
 - [Instagram](https://www.instagram.com/girlscript/)
 - [Twitter](https://twitter.com/girlscript1)
 
@@ -122,10 +122,10 @@ A few examples are listed... Continue by fork and pull
 
 18. Headstart Calicut chapter
 - [Website](https://headstart.in/chapter/calicut)
-- [twitter](https://twitter.com/HSCalicut)
+- [Twitter](https://twitter.com/HSCalicut)
 
 19. Kochi Python
-- [website](https://kochi.python.org.in)
+- [Website](https://kochi.python.org.in)
 - [Twitter](https://twitter.com/KochiPython)
 - [GitHub](https://github.com/KochiPython/)
 
@@ -178,18 +178,18 @@ A few examples are listed... Continue by fork and pull
 - [Twitter](https://twitter.com/daniweb)
 
 33.CodeProject
-- [website](https://www.codeproject.com/)
+- [Website](https://www.codeproject.com/)
 
 34.Developers Forum
-- [website](https://www.webdeveloper.com/)
+- [Website](https://www.webdeveloper.com/)
 
 35.Coderwall
-- [website](https://coderwall.com/)
+- [Website](https://coderwall.com/)
 - [GitHub](https://github.com/coderwall)
 - [Twitter](https://twitter.com/coderwall)
 
 36.Coffeecup
-- [website](https://www.coffeecup.com/)
+- [Website](https://www.coffeecup.com/)
 - [Twitter](https://www.twitter.com/coffeecup)
 - [Facebook](https://www.facebook.com/coffeecup)
 - [LinkedIn](https://www.linkedin.com/company/coffeecup-software)
@@ -203,3 +203,10 @@ A few examples are listed... Continue by fork and pull
 - [Website](https://indoxploit.id/)
 - [Github](https://indoxploit.id/)
 - [Facebook](https://web.facebook.com/indoxploit)
+
+38. FAUN
+- [Website](https://faun.dev/)
+- [Medium](https://medium.com/faun)
+- [Slack](https://medium.com/faun/faun-community-this-is-our-slack-new-structure-a2f3942c4388)
+- [Instagram](https://www.instagram.com/fauncommunity/)
+- [Facebook](https://www.facebook.com/faun.dev)
