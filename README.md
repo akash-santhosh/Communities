@@ -152,7 +152,9 @@ A few examples are listed... Continue by fork and pull
   
 26.Bearly MobileDev
 - [Telegram](https://t.me/BEARlyMobile)
-- [Telegram](https://t.me/BEARlyMobile)
+
+27.CyberVally
+- [Twitter](https://twitter.com/cybervally)  
 
 28. Collabnix
 - [Website](https://collabnix.com/)
@@ -164,10 +166,10 @@ A few examples are listed... Continue by fork and pull
 - [LinkenIn](https://www.linkedin.com/in/ajeetsraina/) 
 
 29.DevTo
-  - [Website](https://dev.to/)
+- [Website](https://dev.to/)
 
 30.Hackernoon
-  - [Website](https://hackernoon.com/)
+- [Website](https://hackernoon.com/)
 
 31.Hackerrank
-  - [Website](https://www.hackerrank.com/)
+- [Website](https://www.hackerrank.com/)
