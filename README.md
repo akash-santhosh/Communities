@@ -192,7 +192,4 @@ A few examples are listed... Continue by fork and pull
 - [website](https://www.coffeecup.com/)
 - [Twitter](https://www.twitter.com/coffeecup)
 - [Facebook](https://www.facebook.com/coffeecup)
-
-
-
-//- [LinkedIn](https://www.linkedin.com/company/coffeecup-software
+- [LinkedIn](https://www.linkedin.com/company/coffeecup-software
