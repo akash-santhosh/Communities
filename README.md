@@ -152,12 +152,22 @@ A few examples are listed... Continue by fork and pull
   
 26.Bearly MobileDev
 - [Telegram](https://t.me/BEARlyMobile)
+- [Telegram](https://t.me/BEARlyMobile)
 
-27. Collabnix
+28. Collabnix
 - [Website](https://collabnix.com/)
 - [Slack](https://collabnix.com/slack/)
 - [Facebook](https://www.facebook.com/groups/1585441721723792/)
 - [GitHub - Collabnix](https://github.com/collabnix)
 - [GitHub - Ajeet Singh Raina](https://github.com/ajeetraina)
 - [Twitter](https://twitter.com/ajeetsraina)
-- [LinkenIn](https://www.linkedin.com/in/ajeetsraina/)
+- [LinkenIn](https://www.linkedin.com/in/ajeetsraina/) 
+
+29.DevTo
+  - [Website](https://dev.to/)
+
+30.Hackernoon
+  - [Website](https://hackernoon.com/)
+
+31.Hackerrank
+  - [Website](https://www.hackerrank.com/)
