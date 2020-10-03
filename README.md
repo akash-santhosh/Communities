@@ -124,14 +124,14 @@ A few examples are listed... Continue by fork and pull
 - [Website](https://headstart.in/chapter/calicut)
 - [twitter](https://twitter.com/HSCalicut)
 
-19. Kochi Python 
+19. Kochi Python
 - [website](https://kochi.python.org.in)
 - [Twitter](https://twitter.com/KochiPython)
 - [GitHub](https://github.com/KochiPython/)
 
 20. MALABAR AMATEUR RADIO SOCIETY
 - [Website](https://malabarradiosociety.in)  
-  
+
 21. Dair.ai  
 - [Website](https://dair.ai/)
 - [Twitter](http://twitter.com/dair_ai)
@@ -140,16 +140,16 @@ A few examples are listed... Continue by fork and pull
 22.Bearly Developers
 - [Telegram Chat](https://t.me/BEARlyDev)
 - [Telegram Channel](http://t.me/BEARlyLog)
- 
+
 23.Bearly Infosec
 - [Telegram](https://t.me/BEARlySec)
 
 24.Bearly WebDev
 - [Telegram](https://t.me/BEARlyWeb)
-  
+
 25.Bearly Science and Tech
 - [Telegram](https://t.me/BEARly_Sci_Tech)
-  
+
 26.Bearly MobileDev
 - [Telegram](https://t.me/BEARlyMobile)
 
@@ -172,3 +172,24 @@ A few examples are listed... Continue by fork and pull
 
 31.Hackerrank
 - [Website](https://www.hackerrank.com/)
+
+32.Daniweb
+- [Website](https://www.daniweb.com)
+- [Twitter](https://twitter.com/daniweb)
+
+33.CodeProject
+- [website](https://www.codeproject.com/)
+
+34.Developers Forum
+- [website](https://www.webdeveloper.com/)
+
+34.Coderwall
+- [website](https://coderwall.com/)
+- [GitHub](https://github.com/coderwall)
+- [Twitter](https://twitter.com/coderwall)
+
+35.Coffeecup
+- [website](https://www.coffeecup.com/)
+- [Twitter](https://www.twitter.com/coffeecup)
+- [Facebook](https://www.facebook.com/coffeecup)
+- [LinkedIn](https://www.linkedin.com/company/coffeecup-software)
