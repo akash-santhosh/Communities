@@ -131,3 +131,11 @@ A few examples are listed... Continue by fork and pull
 
 20. MALABAR AMATEUR RADIO SOCIETY
 - [Website](https://malabarradiosociety.in)
+
+21.Bearly Developers
+ - [Telegram Chat](https://t.me/BEARlyDev)
+ - [Telegram Channel](http://t.me/BEARlyLog)
+ 
+22.Bearly Infosec
+  -[Telegram](https://t.me/BEARlySec)
+ 
