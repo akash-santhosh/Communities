@@ -160,10 +160,9 @@ A few examples are listed... Continue by fork and pull
 - [Website](https://collabnix.com/)
 - [Slack](https://collabnix.com/slack/)
 - [Facebook](https://www.facebook.com/groups/1585441721723792/)
-- [GitHub - Collabnix](https://github.com/collabnix)
-- [GitHub - Ajeet Singh Raina](https://github.com/ajeetraina)
-- [Twitter](https://twitter.com/ajeetsraina)
-- [LinkenIn](https://www.linkedin.com/in/ajeetsraina/) 
+- [GitHub](https://github.com/collabnix)
+- [Twitter](https://twitter.com/collabnix)
+- [LinkedIn](https://www.linkedin.com/company/collabnix/)
 
 29.DevTo
 - [Website](https://dev.to/)
