@@ -136,3 +136,19 @@ A few examples are listed... Continue by fork and pull
 - [Website](https://dair.ai/)
 - [Twitter](http://twitter.com/dair_ai)
 - [Github](http://github.com/dair-ai)
+
+22.Bearly Developers
+ - [Telegram Chat](https://t.me/BEARlyDev)
+ - [Telegram Channel](http://t.me/BEARlyLog)
+ 
+23.Bearly Infosec
+  - [Telegram](https://t.me/BEARlySec)
+
+24.Bearly WebDev
+  - [Telegram](https://t.me/BEARlyWeb)
+  
+25.Bearly Science and Tech
+  - [Telegram](https://t.me/BEARly_Sci_Tech)
+  
+26.Bearly MobileDev
+  - [Telegram](https://t.me/BEARlyMobile)
