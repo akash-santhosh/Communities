@@ -137,5 +137,5 @@ A few examples are listed... Continue by fork and pull
  - [Telegram Channel](http://t.me/BEARlyLog)
  
 22.Bearly Infosec
-  -[Telegram](https://t.me/BEARlySec)
+  - [Telegram](https://t.me/BEARlySec)
  
