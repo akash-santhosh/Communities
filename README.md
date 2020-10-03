@@ -137,64 +137,65 @@ A few examples are listed... Continue by fork and pull
 - [Twitter](http://twitter.com/dair_ai)
 - [Github](http://github.com/dair-ai)
 
-22.Bearly Developers
+22. Bearly Developers
 - [Telegram Chat](https://t.me/BEARlyDev)
 - [Telegram Channel](http://t.me/BEARlyLog)
 
-23.Bearly Infosec
+23. Bearly Infosec
 - [Telegram](https://t.me/BEARlySec)
 
-24.Bearly WebDev
+24. Bearly WebDev
 - [Telegram](https://t.me/BEARlyWeb)
 
-25.Bearly Science and Tech
+25. Bearly Science and Tech
 - [Telegram](https://t.me/BEARly_Sci_Tech)
 
-26.Bearly MobileDev
+26. Bearly MobileDev
 - [Telegram](https://t.me/BEARlyMobile)
 
-27.CyberVally
+27. CyberVally
 - [Twitter](https://twitter.com/cybervally)  
 
 28. Collabnix
 - [Website](https://collabnix.com/)
-- [Slack](https://collabnix.com/slack/)
+- [Slack](https://collabnix.slack.com/)
 - [Facebook](https://www.facebook.com/groups/1585441721723792/)
 - [GitHub](https://github.com/collabnix)
 - [Twitter](https://twitter.com/collabnix)
 - [LinkedIn](https://www.linkedin.com/company/collabnix/)
+- [Youtube](https://www.youtube.com/channel/UCyGUMSe_Y5zuYwrIQdJuLvw)
 
-29.DevTo
+29. DevTo
 - [Website](https://dev.to/)
 
-30.Hackernoon
+30. Hackernoon
 - [Website](https://hackernoon.com/)
 
-31.Hackerrank
+31. Hackerrank
 - [Website](https://www.hackerrank.com/)
 
-32.Daniweb
+32. Daniweb
 - [Website](https://www.daniweb.com)
 - [Twitter](https://twitter.com/daniweb)
 
-33.CodeProject
+33. CodeProject
 - [Website](https://www.codeproject.com/)
 
-34.Developers Forum
+34. Developers Forum
 - [Website](https://www.webdeveloper.com/)
 
-35.Coderwall
+35. Coderwall
 - [Website](https://coderwall.com/)
 - [GitHub](https://github.com/coderwall)
 - [Twitter](https://twitter.com/coderwall)
 
-36.Coffeecup
+36. Coffeecup
 - [Website](https://www.coffeecup.com/)
 - [Twitter](https://www.twitter.com/coffeecup)
 - [Facebook](https://www.facebook.com/coffeecup)
 - [LinkedIn](https://www.linkedin.com/company/coffeecup-software)
 
-37.Facebook Developer circles kochi
+37. Facebook Developer circles kochi
 - [Facebook](https://www.facebook.com/groups/DevCKochi/)
 - [LinkedIn](https://www.linkedin.com/company/fbdevckochi?originalSubdomain=in)
 - [Instagram](https://www.instagram.com/devckochi/)
@@ -204,9 +205,17 @@ A few examples are listed... Continue by fork and pull
 - [Github](https://indoxploit.id/)
 - [Facebook](https://web.facebook.com/indoxploit)
 
-38. FAUN
+39. FAUN
 - [Website](https://faun.dev/)
 - [Medium](https://medium.com/faun)
-- [Slack](https://medium.com/faun/faun-community-this-is-our-slack-new-structure-a2f3942c4388)
+- [Slack](https://devopslinks.slack.com/)
 - [Instagram](https://www.instagram.com/fauncommunity/)
 - [Facebook](https://www.facebook.com/faun.dev)
+
+40. ioetplanet
+- [Website](https://www.ioetplanet.com/)
+- [Slack](https://ioetplanet.slack.com/)
+- [GitHub](https://github.com/collabnix/ioetplanet)
+- [Youtube](https://www.youtube.com/channel/UCOAne86bIP5TIvM6kDOzoSg)
+- [Facebook](https://www.facebook.com/groups/2702303980016564)
+- [Twitter](https://twitter.com/ioetplanet)
