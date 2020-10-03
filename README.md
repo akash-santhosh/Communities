@@ -138,17 +138,26 @@ A few examples are listed... Continue by fork and pull
 - [Github](http://github.com/dair-ai)
 
 22.Bearly Developers
- - [Telegram Chat](https://t.me/BEARlyDev)
- - [Telegram Channel](http://t.me/BEARlyLog)
+- [Telegram Chat](https://t.me/BEARlyDev)
+- [Telegram Channel](http://t.me/BEARlyLog)
  
 23.Bearly Infosec
-  - [Telegram](https://t.me/BEARlySec)
+- [Telegram](https://t.me/BEARlySec)
 
 24.Bearly WebDev
-  - [Telegram](https://t.me/BEARlyWeb)
+- [Telegram](https://t.me/BEARlyWeb)
   
 25.Bearly Science and Tech
-  - [Telegram](https://t.me/BEARly_Sci_Tech)
+- [Telegram](https://t.me/BEARly_Sci_Tech)
   
 26.Bearly MobileDev
-  - [Telegram](https://t.me/BEARlyMobile)
+- [Telegram](https://t.me/BEARlyMobile)
+
+27. Collabnix
+- [Website](https://collabnix.com/)
+- [Slack](https://collabnix.com/slack/)
+- [Facebook](https://www.facebook.com/groups/1585441721723792/)
+- [GitHub - Collabnix](https://github.com/collabnix)
+- [GitHub - Ajeet Singh Raina](https://github.com/ajeetraina)
+- [Twitter](https://twitter.com/ajeetsraina)
+- [LinkenIn](https://www.linkedin.com/in/ajeetsraina/)
