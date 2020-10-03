@@ -152,3 +152,12 @@ A few examples are listed... Continue by fork and pull
   
 26.Bearly MobileDev
   - [Telegram](https://t.me/BEARlyMobile)
+
+27.DevTo
+  - [Website](https://dev.to/)
+
+28.Hackernoon
+  - [Website](https://hackernoon.com/)
+
+29.Hackerrank
+  - [Website](https://www.hackerrank.com/)
