@@ -138,4 +138,12 @@ A few examples are listed... Continue by fork and pull
  
 22.Bearly Infosec
   - [Telegram](https://t.me/BEARlySec)
- 
+
+23.Bearly WebDev
+  - [Telegram](https://t.me/BEARlyWeb)
+  
+24.Bearly Science and Tech
+  - [Telegram](https://t.me/BEARly_Sci_Tech)
+  
+25.Bearly MobileDev
+  - [Telegram](https://t.me/BEARlyMobile)
