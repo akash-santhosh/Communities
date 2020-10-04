@@ -264,3 +264,10 @@ A few examples are listed... Continue by fork and pull
 
 - [Website](https://paperswelove.org/)
 - [Telegram](https://t.me/pwl_kochi)
+
+42. Youngovators
+
+- [Website](https://youngovators.com/)
+- [Instagram](https://www.instagram.com/youngovators)
+- [Youtube](https://www.youtube.com/channel/UCUlNqr0XmJiqszeu9UzuiGw)
+- [Facebook](https://www.facebook.com/youngovators/)
