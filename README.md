@@ -223,3 +223,11 @@ A few examples are listed... Continue by fork and pull
 41. Papers We Love Kochi
 - [Website](https://paperswelove.org/)
 - [Telegram](https://t.me/pwl_kochi)
+
+42. Computer Science Portal
+- [Telegram](https://t.me/joinchat/Me9ZWRhqjhq56oDMJq3aGA)
+
+43. Trainings and Internships 2020
+- [Youtube](https://www.youtube.com/channel/UCUqLb3YfBCeGep0h26nfT2w/videos/)
+- [Telegram](https://t.me/placements2020GS)
+- [LinkedIn](https://www.linkedin.com/company/trainings-internships/)
