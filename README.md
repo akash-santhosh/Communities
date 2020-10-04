@@ -57,6 +57,9 @@
 | **47. Trainings and Internships 2020**      | Consists of all links related to Trainings and Internships 2020    |[Youtube](https://www.youtube.com/channel/UCUqLb3YfBCeGep0h26nfT2w/videos/)<br>[Telegram](https://t.me/placements2020GS)<br>[LinkedIn](https://www.linkedin.com/company/trainings-internships/) |
 | **48. Tangled**      | Consists of all links related to Tangled    | [Website](https://tangled.ae/)<br>[Instagram](https://www.instagram.com/tangled.ae/)<br>[Youtube](https://www.youtube.com/channel/UCdyYyy9DEY3cdrG_dtJnp5A)|
 | **49. Google Developer Student Club**      | Consists of all links related to Google Developer Student Club    |[Website](https://developers.google.com/community/dsc)<br>[LinkedIn](https://www.linkedin.com/company/developerstudentclubs/) |
+50. CodeChef for Schools
+- [Website](https://www.codechef.com/school)
+- [Facebook](https://www.facebook.com/CodeChefForSchools/)
 
 
 
