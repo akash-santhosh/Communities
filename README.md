@@ -253,3 +253,8 @@ A few examples are listed... Continue by fork and pull
 - [Youtube](https://www.youtube.com/channel/UCUqLb3YfBCeGep0h26nfT2w/videos/)
 - [Telegram](https://t.me/placements2020GS)
 - [LinkedIn](https://www.linkedin.com/company/trainings-internships/)
+
+48. Tangled
+- [Website](https://tangled.ae/)
+- [Instagram](https://www.instagram.com/tangled.ae/)
+- [Youtube](https://www.youtube.com/channel/UCdyYyy9DEY3cdrG_dtJnp5A)
