@@ -262,3 +262,7 @@ A few examples are listed... Continue by fork and pull
 49. Google Developer Student Club
 - [Website](https://developers.google.com/community/dsc)
 - [LinkedIn](https://www.linkedin.com/company/developerstudentclubs/)
+
+50. CodeChef for Schools
+- [Website](https://www.codechef.com/school)
+- [Facebook](https://www.facebook.com/CodeChefForSchools/)
