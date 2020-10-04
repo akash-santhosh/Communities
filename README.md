@@ -253,3 +253,7 @@ A few examples are listed... Continue by fork and pull
 - [Youtube](https://www.youtube.com/channel/UCUqLb3YfBCeGep0h26nfT2w/videos/)
 - [Telegram](https://t.me/placements2020GS)
 - [LinkedIn](https://www.linkedin.com/company/trainings-internships/)
+
+48. Google Developer Student Club
+- [Website](https://developers.google.com/community/dsc)
+- [LinkedIn](https://www.linkedin.com/company/developerstudentclubs/)
