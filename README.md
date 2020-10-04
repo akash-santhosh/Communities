@@ -258,3 +258,7 @@ A few examples are listed... Continue by fork and pull
 - [Website](https://tangled.ae/)
 - [Instagram](https://www.instagram.com/tangled.ae/)
 - [Youtube](https://www.youtube.com/channel/UCdyYyy9DEY3cdrG_dtJnp5A)
+
+49. Google Developer Student Club
+- [Website](https://developers.google.com/community/dsc)
+- [LinkedIn](https://www.linkedin.com/company/developerstudentclubs/)
