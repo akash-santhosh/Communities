@@ -59,3 +59,4 @@
 | **49. Google Developer Student Club**      | Consists of all links related to Google Developer Student Club    |[Website](https://developers.google.com/community/dsc)<br>[LinkedIn](https://www.linkedin.com/company/developerstudentclubs/) |
 | **50. CodeChef for Schools**      | Consists of all links related to CodeChef for Schools    |[Website](https://www.codechef.com/school)<br>[Facebook](https://www.facebook.com/CodeChefForSchools/) |
 | **51. FOSS Point Community** | Community for FOSS Enthusiasts    |[LinkTree](https://bit.ly/JS-links)|
+| **52. GDG Thiruvananthapuram**      | Consists of all links related to GDG Thiruvananthapuram      | [Website](https://gdg.community.dev/gdg-thiruvananthapuram/)<br>[Facebook](https://www.facebook.com/gdgtvpm/)<br>[Twitter](https://twitter.com/gdgtvpm)<br>[Instagram](https://www.instagram.com/gdgtvpm/)<br>[LinkedIn](https://www.linkedin.com/showcase/community-groups-program-gdg/about/) |
