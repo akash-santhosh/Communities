@@ -61,4 +61,8 @@
 | **51. FOSS Point Community** | Community for FOSS Enthusiasts    |[LinkTree](https://bit.ly/JS-links)|
 | **52. GDG Thiruvananthapuram**      | Consists of all links related to GDG Thiruvananthapuram      | [Website](https://gdg.community.dev/gdg-thiruvananthapuram/)<br>[Facebook](https://www.facebook.com/gdgtvpm/)<br>[Twitter](https://twitter.com/gdgtvpm)<br>[Instagram](https://www.instagram.com/gdgtvpm/)<br>[LinkedIn](https://www.linkedin.com/showcase/community-groups-program-gdg/about/) |
 | **53. Flutter Trivandrum** | Community for Flutter Devs and Enthusiasts    | [Github](https://github.com/Flutter-Trivandrum)<br>[Meetup](https://www.meetup.com/Flutter-Trivandrum)<br>[Instagram](https://www.instagram.com/flutter_trivandrum/)<br>[LinkedIn](https://www.linkedin.com/company/flutter-trivandrum) |
-| **54. Kaggle** | Online community of Data Scientists & ML practitioners    | [Website](https://www.kaggle.com/)<br>[Facebook](https://www.facebook.com/kaggle)<br>[Twitter](https://twitter.com/kaggle)<br>[LinkedIn](https://www.linkedin.com/company/kaggle/) |
+
+| **54. GDG Bangalore** | Consists of all links related to GDG Bangalore    | [Github](https://github.com/GDGBangalore)<br>[Meetup](http://meetup.com/GDGBangalore)<br>[Facebook](https://www.facebook.com/GDG-Bangalore-101204221589426/)<br>[Slack](http://bit.ly/gdgblrslack) |
+
+| **55. Kaggle** | Online community of Data Scientists & ML practitioners    | [Website](https://www.kaggle.com/)<br>[Facebook](https://www.facebook.com/kaggle)<br>[Twitter](https://twitter.com/kaggle)<br>[LinkedIn](https://www.linkedin.com/company/kaggle/) |
+
